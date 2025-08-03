@@ -327,6 +327,10 @@ section {
   margin-bottom: 2rem;
 }
 
+.project-title {
+  font-size: 1.25rem; /* or any size you prefer */
+}
+
 .experience-details-container {
   display: flex;
   justify-content: center;
